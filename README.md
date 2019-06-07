@@ -5,4 +5,6 @@
 
 Το script "parody.js" αντιστοιχεί στη σελίδα: https://users.it.teithe.gr/~it123834/pages/writing/parody.html
 
-Το script
+Το script "the-king.js" αντιστοιχεί στη σελίδα: https://users.it.teithe.gr/~it123834/pages/writing/the_king.html
+
+Το script "virtual.js" αντιστοιχεί στη σελίδα: https://users.it.teithe.gr/~it123834/pages/virtual.html
