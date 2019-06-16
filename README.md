@@ -5,6 +5,8 @@
 
 Το script "parody.js" αντιστοιχεί στη σελίδα: https://users.it.teithe.gr/~it123834/pages/writing/parody.html
 
+Το script "rock-paper-scissors.js" αντιστοιχεί στη σελίδα: https://users.it.teithe.gr/~it123834/pages/writing/rock-paper-scissors.html
+
 Το script "the-king.js" αντιστοιχεί στη σελίδα: https://users.it.teithe.gr/~it123834/pages/games/the-king.html
 
 Το script "virtual.js" αντιστοιχεί στη σελίδα: https://users.it.teithe.gr/~it123834/pages/games/virtual.html
