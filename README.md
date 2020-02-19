@@ -9,4 +9,6 @@
 
 Το script "the-king.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~it123834/pages/games/the-king.html
 
+Το script "traffic-lights-easy.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~it123834/pages/games/traffic-lights-easy.html
+
 Το script "virtual.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~it123834/pages/games/virtual.html
