@@ -1,4 +1,4 @@
-# Personal_Website_Scripts
+# JavaScript Mini-Games
 Τα scripts που δημιούργησα για την ανεπίσημη προσωπική μου ιστοσελίδα.
 
 Αρχική σελίδα: https://users.iee.ihu.gr/~ait102020
