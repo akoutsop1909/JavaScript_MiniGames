@@ -1,16 +1,11 @@
-# JavaScript Mini-Games
-Το παρόν repository περιέχει τα scrips των διαδικτυακών μικρών εφαρμογών/παιχνιδιών που δημιούργησα. Οι εφαρμογές είναι προσβάσημες από το σύνδεσμο στο about του repository.
+# JavaScript MiniGames
+Το παρόν repository περιέχει τα scrips των διαδικτυακών μικρών εφαρμογών/παιχνιδιών που δημιούργησα. Οι πλήρης εφαρμογές είναι προσβάσημες για δοκιμή από το σύνδεσμο στο about του repository.
 
-Αρχική σελίδα: https://users.iee.ihu.gr/~ait102020
+Αναλυτικότερα:
+* Το script ```rock-paper-scissors.js``` υλοποιεί το παιχνίδι 'πέτρα-ψαλίδι-χαρτί' με αντίπαλο τον υπολογιστή.
+* Το script ```the-king.js``` υλοποιεί το παιχνίδι 'εδώ παππάς, εκεί παππάς`.
+* Το script ```traffic-lights-easy.js``` τεστάρει τα αντανακλασικά του παίκτη με φωτεινό σηματοδότη.
+* Το script ```traffic-lights-hard.js``` είναι μια δυσκολότερη εκδοχή του ```traffic-lights-easy.js```.
+* Το script ```virtual.js``` προσφέρει αλληλεπίδραση του χρήστη με ένα avatar.
 
-Το script "parody.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~ait102020/pages/writing/parody.html
-
-Το script "rock-paper-scissors.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~ait102020/pages/games/rock-paper-scissors.html
-
-Το script "the-king.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~ait102020/pages/games/the-king.html
-
-Το script "traffic-lights-easy.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~ait102020/pages/games/traffic-lights-easy.html
-
-Το script "traffic-lights-hard.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~ait102020/pages/games/traffic-lights-hard.html
-
-Το script "virtual.js" αντιστοιχεί στη σελίδα: https://users.iee.ihu.gr/~ait102020/pages/games/virtual.html
+Λεπτομέρειες σχετικά με την κάθε εφαρμογή στο σύνδεσμο του repository.
