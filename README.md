@@ -1,14 +1,14 @@
 # JavaScript MiniGames
-Το παρόν repository περιλαμβάνει όλα τα απαραίτητα αρχεία μιας συλλογής από μικρές εφαρμογές/παιχνίδια. Είναι υλοποιημένα σε javascript με layout σε html σε μορφή ιστοσελίδας. Η ιστοσελίδα είναι προσβάσημη για δοκιμή από το σύνδεσμο στο about του repository.
+This repository contains a collection of simple JavaScript applications/games with an HTML template. The website is accessible for testing from the link in the "about" section.
 
-Αναλυτικότερα, μέσα στο φάκελο ```pages``` βρίσκονται τα html αρχεία που "τρέχουν" τις εφαρμογές:
-* Το ```penalty.html``` προσομοιώνει έναν αγώνα πέναλτι με αντίπαλο τον υπολογιστή. 
-* Το ```rock-paper-scissors.html``` υλοποιεί το παιχνίδι 'πέτρα-ψαλίδι-χαρτί' με αντίπαλο τον υπολογιστή.
-* Το ```the-king.html``` υλοποιεί το παιχνίδι 'εδώ παππάς, εκεί παππάς'.
-* Το ```traffic-lights-easy.html``` τεστάρει τα αντανακλαστικά του παίκτη με φωτεινό σηματοδότη.
-* Το ```traffic-lights-hard.html``` είναι μια δυσκολότερη εκδοχή του ```traffic-lights-easy.js```.
-* Το ```virtual.html``` προσφέρει αλληλεπίδραση του χρήστη με ένα avatar.
+More specifically, the HTML files in the ```pages``` folder run the following applications:
+* ```penalty.html``` simulates a penalty shootout against the computer. 
+* ```rock-paper-scissors.html``` is the game 'rock-paper-scissors' against the computer.
+* ```the-king.html``` is the 'shell game' using the king card.
+* ```traffic-lights-easy.html``` tests the player's reflexes with traffic lights.
+* ```traffic-lights-hard.html``` is a more difficult version of ```traffic-lights-easy.js```.
+* ```virtual.html``` offers user interaction with an avatar.
 
-Τα αντίστοιχα JavaScript αρχεία βρίσκονται στο φάκελο ```js```, ένω ο φάκελος ```assets``` περιέχει τις εικόνες που χρειάζονται οι εφαρμογές για να λειτουργήσουν.
+The ```js``` folder contains the corresponding JavaScript files, while the ```assets``` folder contains all necessary images.
 
-Λεπτομέρειες σχετικά με την κάθε εφαρμογή στο αντίστοιχο html αρχείο του (είτε από το σύνδεσμο του repository).
+Each HTML file includes instructions (in Greek) on how to play each game.
